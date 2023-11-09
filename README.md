@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/imrk.859" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="imrk.859" height="40" width="40" /></a>
 <a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>
-<a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="30" width="40" /></a>
+<a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
