@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/imrk.859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imrk.859" height="30" width="40" /></a>
-<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rak3xh" height="30" width="40" /></a>
+<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw1pgFbywyIFFAqXGeCJKslm&ust=1699579980242000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCIgPritYIDFQAAAAAdAAAAABAE" alt="rak3xh" height="30" width="40" /></a>
 <a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9nUs5Ft" height="30" width="40" /></a>
 </p>
 
