@@ -5,7 +5,7 @@
 
 ##
 
-## <p align="center">Check out my Portfolio Website!!  <p align="center"><a href="https://rak3xh-portfolio.vercel.app/" target="blank"><img src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif" alt="Portfolio|Website" height="50" width="130"></a>
+## <p align="center">Check out my Portfolio Website!! </p> <p align="center"><a href="https://rak3xh-portfolio.vercel.app/" target="blank"><img src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif" alt="Portfolio|Website" height="50" width="130"></a></p>
 
 
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am a part time Gamer**
 
-- 🎮 **Add me on**<a href="https://steamcommunity.com/profiles/76561199074954137/"> **STEAM**</a>
+- 🎮 **Add me on**<a href="https://steamcommunity.com/profiles/76561199074954137/" target="blank"> **STEAM**</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
