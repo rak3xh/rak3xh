@@ -11,14 +11,16 @@
 
 
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://www.codingwithslinky.com/GIFs/codingDino.gif" />
 
 - 🌱 I’m currently learning **react.js & node.js**
 
 - 📫 How to reach me **rakeshmondal859@gmail.com**
 
 - ⚡ Fun fact **I am a part time Gamer**
+- 🎮 **Add me on**
 
-- 🎮 **Add me on**<a href="https://steamcommunity.com/profiles/76561199074954137/" target="blank"> **STEAM**</a>
+   <a href="https://steamcommunity.com/profiles/76561199074954137/" target="blank">   <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" alt="steam" width="40" height="40"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
