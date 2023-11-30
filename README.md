@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.licdn.com/dms/image/D4D16AQEhdgA8sDbTxw/profile-displaybackgroundimage-shrink_350_1400/0/1701219687023?e=1706745600&v=beta&t=q06KQVt3mo6o9oVm1Hph0h57c71Di2urmE-1XEAIG4A" alt="rak3xh" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3xh&label=Profile%20views&color=0e75b6&style=flat" alt="rak3xh" /> </p>
-<h1 align="center">Hi 👋, I'm Rakesh Mondal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rakesh Mondal</h1>
  <h3 align="center">MSc. Computer Science Graduate||Front-End Developer||Problem Solver</h3>
 
 ##
