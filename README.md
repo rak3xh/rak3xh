@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="9nUs5Ft" height="50" width="50" /></a>
-<a href="https://fb.com/imrk.859" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="imrk.859" height="40" width="40" /></a>
+<a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="rak3xh_" height="40" width="40" /></a>
 <a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>
 <a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="50" width="50" /></a> <a href="https://www.hackerrank.com/profile/rakeshmondal859" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" height="40" width="120"/></a>
 
