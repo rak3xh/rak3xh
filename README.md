@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.licdn.com/dms/image/D5616AQGwG5yAK5XvdQ/profile-displaybackgroundimage-shrink_350_1400/0/1703163471203?e=1708560000&v=beta&t=SVia3CI9zC0GucivN3OupTee2U3X0o6v1c7WHqMgt68" alt="rak3xh" />
+<p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3xh&label=Profile%20views&color=0e75b6&style=flat" alt="rak3xh" /> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rakesh Mondal</h1>
  <h3 align="center">C++ Developer||Front-End Developer||Problem Solver</h3>
