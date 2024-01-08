@@ -13,7 +13,9 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://www.codingwithslinky.com/GIFs/codingDino.gif" />
 
-- 🌱 I’m currently working and learning **react.js, node.js, next.js & tailwind CSS**
+- 👨‍💻 I'm currently learning **Data Structure Algorithm (DSA) in C++** 
+
+- 🌱 I’m working on **react.js, node.js, next.js & tailwind CSS**
 
 - 📫 How to reach me **rakeshmondal859@gmail.com**
 
