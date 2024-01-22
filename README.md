@@ -32,6 +32,7 @@
 <a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="rak3xh_" height="40" width="40" /></a>
 &nbsp&nbsp<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>&nbsp
 <a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="60" width="60" /></a> 
+<a href="https://stackoverflow.com/users/23191641/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="rak3xh" height="50" width="50" /></a>&nbsp
 
 </p>
 <h3 align="left">Coding Profiles:</h3>
