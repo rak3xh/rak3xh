@@ -11,7 +11,7 @@
 
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://www.codingwithslinky.com/GIFs/codingDino.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjeHRzeGRsamUxZmJpczZxNjRwYzRmNjc3aWl3cTVlZnozeW9ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif" />
 
 - 👨‍💻 I'm currently learning **Data Structure Algorithm (DSA) in C++** 
 
