@@ -27,11 +27,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="9nUs5Ft" height="50" width="50" /></a>
+ &nbsp&nbsp
+<a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="9nUs5Ft" height="50" width="50" /></a> &nbsp&nbsp
 <a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="rak3xh_" height="40" width="40" /></a>
-<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>
-<a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="50" width="50" /></a> <a href="https://www.hackerrank.com/profile/rakeshmondal859" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" height="40" width="120"/></a>
+&nbsp&nbsp<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>&nbsp
+<a href="https://discord.gg/9nUs5Ft" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" alt="9nUs5Ft" height="60" width="60" /></a> 
 
+</p>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+<a href="https://leetcode.com/rak3xh/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+<a href="https://www.hackerrank.com/profile/rakeshmondal859" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+<a href="https://www.codingninjas.com/studio/profile/rak3xh" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/codestudio/codestudio-icon-filled-256.png?v=1675596543337" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+<a href="https://auth.geeksforgeeks.org/user/rak3xh" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+<a href="https://www.codechef.com/users/rak3xh" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+<a href="https://codeforces.com/profile/rak3xh" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
+
+
+
+ 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Trophy Cabinet :</h3>
