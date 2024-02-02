@@ -1,7 +1,6 @@
 <p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3xh&label=Profile%20views&color=0e75b6&style=flat" alt="rak3xh" /> </p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rakesh Mondal</h1>
- <h3 align="center">C++ Developer||Front-End Developer||Problem Solver</h3>
+ <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Developer || Front-End Developer || Problem Solver</h3>
 
 ##
 
@@ -11,7 +10,7 @@
 
 
 
-<img align="right" width=300px height=300px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjeHRzeGRsamUxZmJpczZxNjRwYzRmNjc3aWl3cTVlZnozeW9ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjeHRzeGRsamUxZmJpczZxNjRwYzRmNjc3aWl3cTVlZnozeW9ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif" />
 
 - 👨‍💻 I'm currently learning **Data Structure Algorithm (DSA) in C++** 
 
@@ -20,9 +19,7 @@
 - 📫 How to reach me **rakeshmondal859@gmail.com**
 
 - ⚡ Fun fact **I am a part time Gamer**
-- 🎮 **Add me on**
-
-   <a href="https://steamcommunity.com/profiles/76561199074954137/" target="blank">   <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" alt="steam" width="40" height="40"/> </a>
+ &nbsp; <a  href="https://steamcommunity.com/profiles/76561199074954137/" target="blank">   <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" alt="steam" width="30" height="30"/> </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
@@ -61,8 +58,6 @@
 ****
 <img src="https://img.shields.io/badge/C-Programming-blue"> <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue"> <img src="https://img.shields.io/badge/C%23-programming-blue"> <p> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
-##
-
 **Scripting Languages :**
 
 ****
@@ -77,8 +72,6 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> 
 </p>
 
-##
-
 **Tools and Platforms :**
 
 ****
@@ -92,12 +85,10 @@
 <br>
  
    
-<div align="center">
+<div style="display:flex; " align="center">
 <a href="https://github.com/rak3xh">
  <img src="https://github-readme-stats.vercel.app/api?username=rak3xh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
-</div>
-<div align="center">
  <a href="https://github.com/rak3xh">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rak3xh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="rak3xh"/>
 </a>
