@@ -56,7 +56,7 @@
 
 **Programming Languages:**
 ****
-<img src="https://img.shields.io/badge/C-Programming-blue"> <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue"> <img src="https://img.shields.io/badge/C%23-programming-blue"> <p> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Programming-blue"> <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue"> <img src="https://img.shields.io/badge/C%23-programming-blue"> <p>  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
 **Scripting Languages :**
 
