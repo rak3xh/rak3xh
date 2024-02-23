@@ -1,6 +1,8 @@
 <p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3xh&label=Profile%20views&color=0e75b6&style=flat" alt="rak3xh" /> </p>
 
+****
+
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Developer || Front-End Developer || Problem Solver</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -15,6 +17,7 @@
 <a href="https://stackoverflow.com/users/23191641/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" alt="rak3xh" height="50" width="50" /></a>&nbsp
 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
 <a href="https://leetcode.com/rak3xh/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="rak3xh" height="50" width="50" /></a>&nbsp&nbsp
