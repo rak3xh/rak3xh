@@ -3,22 +3,11 @@
 
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Developer || Front-End Developer || Problem Solver</h3>
 
-****
-
-
-- 👨‍💻 I'm currently learning **Data Structure Algorithm (DSA) in C++** 
-
-- 🌱 I’m working on **react.js, node.js, next.js & tailwind CSS**
-
-- 📫 How to reach me **rakeshmondal859@gmail.com**
-
-- ⚡ Fun fact **I am a part time Gamer**
- &nbsp; <a  href="https://steamcommunity.com/profiles/76561199074954137/" target="blank">   <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" alt="steam" width="30" height="30"/> </a>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  &nbsp&nbsp
+ <a href="mailto:rakeshmondal859@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png" alt="Gmail" height="50" width="50" /></a> &nbsp&nbsp
 <a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="9nUs5Ft" height="50" width="50" /></a> &nbsp&nbsp
 <a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="rak3xh_" height="40" width="40" /></a>
 &nbsp&nbsp<a href="https://instagram.com/rak3xh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="rak3xh" height="40" width="40" /></a>&nbsp
