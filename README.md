@@ -1,16 +1,10 @@
 <p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak3xh&label=Profile%20views&color=0e75b6&style=flat" alt="rak3xh" /> </p>
+
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Developer || Front-End Developer || Problem Solver</h3>
 
-##
+****
 
-## <p align="center">Check out my Portfolio Website!! </p> <p align="center"><a href="https://rak3xh-portfolio.vercel.app/" target="blank"><img src="https://monophy.com/media/f9Se3WUHZYc79gvN8H/monophy.gif" alt="Portfolio|Website" height="50" width="130"></a></p>
-
-
-
-
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdjeHRzeGRsamUxZmJpczZxNjRwYzRmNjc3aWl3cTVlZnozeW9ocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif" />
 
 - 👨‍💻 I'm currently learning **Data Structure Algorithm (DSA) in C++** 
 
@@ -56,7 +50,7 @@
 
 **Programming Languages:**
 ****
-<img src="https://img.shields.io/badge/C-Programming-blue"> <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue"> <img src="https://img.shields.io/badge/C%23-programming-blue"> <p>  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Programming-blue"> <img src="https://img.shields.io/badge/C%2B%2B-Programming-blue"> <img src="https://img.shields.io/badge/C%23-programming-blue">  <img alt="Static Badge" src="https://img.shields.io/badge/Java-Programming-blue">
 
 **Scripting Languages :**
 
@@ -64,7 +58,7 @@
 
 - **Front-End**
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <p>
  
 - **Back-End**
