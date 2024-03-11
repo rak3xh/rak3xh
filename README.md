@@ -1,4 +1,4 @@
-<p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" />
+<p align="center"><img src="https://media.licdn.com/dms/image/D5616AQGtWRUwPu4xQg/profile-displaybackgroundimage-shrink_350_1400/0/1703288443576?e=1715817600&v=beta&t=Qnsqb4p1khAhTyiF5xcYKu2crlxwgGj8JlPSRb2odCk" alt="rak3xh" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Developer || Front-End Developer || Problem Solver</h3>
+ <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C++ Qt Developer || Front-End Developer || Problem Solver || Part Time CS2 Player</h3>
 
 
 
