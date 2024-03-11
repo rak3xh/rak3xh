@@ -63,15 +63,37 @@ public:
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
+<details align="center">
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">Click to see more Stats!</summary>
+  
+  <div align="center">
+  
+ <p align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rak3xh&theme=github_dark" alt="rak3xh" />
  <p align="center">
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rak3xh&theme=github_dark" alt="rak3xh" />
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rak3xh&theme=github_dark" alt="rak3xh" />
  </p>
+ <p align="center">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rak3xh&theme=github_dark" alt="rak3xh" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rak3xh&theme=github_dark&utcOffset=8" alt="rak3xh" />
+ </p>
 
  
 </p>
+  
+  </div>
+
+</details>
+
+****
+
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=rak3xh&theme=highcontrast" alt="rak3xh" /></p>
+
+
+
+
+
+
 
