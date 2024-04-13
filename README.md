@@ -89,6 +89,8 @@ public:
 ****
 
 
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4bGF6cGd1d2h2d3U4MWV5eTR0YTV4OWhhZWZzbm0xems2NXAxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QeRhMjNZrsMWpBsr57/giphy.gif" height="140px" width="190px"></p>
+
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=rak3xh&theme=highcontrast" alt="rak3xh" /></p>
 
 
