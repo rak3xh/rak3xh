@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.licdn.com/dms/image/D5616AQGtWRUwPu4xQg/profile-displaybackgroundimage-shrink_350_1400/0/1703288443576?e=1715817600&v=beta&t=Qnsqb4p1khAhTyiF5xcYKu2crlxwgGj8JlPSRb2odCk" alt="rak3xh" /></p>
+<p align="center"><img src="https://pbs.twimg.com/profile_banners/1729672342337716224/1703176500/1500x500" alt="rak3xh" /></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak3xh"  /></a>
  <a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rak3xh"  /></a>
