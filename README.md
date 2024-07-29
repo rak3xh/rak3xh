@@ -31,7 +31,10 @@
 <a href="https://www.codechef.com/users/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="rak3xh"  /></a>
 <a href="https://codeforces.com/profile/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rak3xh"  /></a>
 
-
+<div align="center">
+ 
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/rak3xh?theme=dark&font=EB%20Garamond&ext=contest)
+</div>
 
  
 </p>
