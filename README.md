@@ -33,7 +33,7 @@
 
 <div align="center">
  
- ![LeetCode Stats](https://leetcard.jacoblin.cool/rak3xh?theme=dark&font=EB%20Garamond&ext=contest)
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/rak3xh?theme=dark&font=EB%20Garamond&ext=contest)](https://leetcode.com/u/rak3xh/)
 </div>
 
  
