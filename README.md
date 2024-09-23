@@ -14,7 +14,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C# .NET || VisualBasic .NET || C++ Developer || Problem Solver</h3>
+ <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C# .NET || VisualBasic .NET || C++ Developer || Part Time CS Player</h3>
 
 
 
@@ -78,7 +78,7 @@ public:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details align="center">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;">Click to see more Stats!</summary>
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;"><b>Click to see more Stats!</b></summary>
   
   <div align="center">
   
