@@ -73,7 +73,7 @@ public:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details align="center">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;"><b>C L I C K  T O  S E E  S T A T S</b></summary>
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;"><b>Click to see more Stats!</b></summary>
   
   <div align="center">
   
