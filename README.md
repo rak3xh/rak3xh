@@ -9,16 +9,12 @@
 
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=rak3xh&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rak3xh&style=for-the-badge)
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> C# .NET || VisualBasic .NET || C++ Developer || Part Time CS Player</h3>
-
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Coding Profiles:</h3>
@@ -33,13 +29,11 @@
 <a href="https://codeforces.com/profile/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rak3xh"  /></a>
 --->
 
-
 <div align="center">
  
  [![LeetCode Stats](https://leetcard.jacoblin.cool/rak3xh?border=0&radius=20)](https://leetcode.com/u/rak3xh/)
 </div>
 
- 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -61,24 +55,25 @@ public:
              return{
             "HTML5", "CSS3", "JavaScript", "ReactJs", "TailwindCss"
         };
-     } 
+     }
         else if(BackEnd){
               return{
-            "PHP", "MySQL"             
-        }; 
+            "PHP", "MySQL"
+        };
      }
-   }  
+   }
    vector<string> Technologies(){
         return{
             "System Design","Azure AZ-104"
        };
-    }  
+    }
 };
 ```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details align="center">
-  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;"><b>Click to see more Stats!</b></summary>
+  <summary style="cursor: pointer; background-color: #f0f0f0; padding: 5px 10px;"><b>C L I C K  T O  S E E  S T A T S</b></summary>
   
   <div align="center">
   
@@ -93,23 +88,14 @@ public:
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rak3xh&theme=github_dark&utcOffset=8" alt="rak3xh" />
  </p>
 
- 
 </p>
   
   </div>
 
 </details>
 
-****
-
+---
 
 <h3 align="center"><b>S T R E A K</b></h3>
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=rak3xh&theme=highcontrast" alt="rak3xh" /></p>
-
-
-
-
-
-
-
