@@ -29,10 +29,7 @@
 <a href="https://codeforces.com/profile/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rak3xh"  /></a>
 --->
 
-<div align="center">
- 
- [![LeetCode Stats](https://leetcard.jacoblin.cool/rak3xh?border=0&radius=20)](https://leetcode.com/u/rak3xh/)
-</div>
+
 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
