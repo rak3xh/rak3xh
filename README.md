@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.licdn.com/dms/image/v2/D5616AQGtWRUwPu4xQg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703288443576?e=1738800000&v=beta&t=D-NYyNpmmebNkI8bTBjNitLzqvfEJbB5vOeeymu53K8" alt="rak3xh" /></p>
+<p align="center"><img src="./banner.jpg" alt="Banner Photo"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/rak3xh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak3xh"  /></a>
  <a href="https://twitter.com/rak3xh_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rak3xh"  /></a>
@@ -28,8 +28,6 @@
 <a href="https://www.codechef.com/users/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="rak3xh"  /></a>
 <a href="https://codeforces.com/profile/rak3xh" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rak3xh"  /></a>
 --->
-
-
 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
